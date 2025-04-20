@@ -24,3 +24,9 @@ Ques - 08 https://leetcode.com/problems/increasing-triplet-subsequence/
 
 
 Ques - 09 https://leetcode.com/problems/string-compression/
+
+
+Week - 02
+
+
+Ques - 10 https://leetcode.com/problems/move-zeroes/
