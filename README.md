@@ -30,3 +30,6 @@ Week - 02
 
 
 Ques - 10 https://leetcode.com/problems/move-zeroes/
+
+
+Ques - 11 https://leetcode.com/problems/is-subsequence/
