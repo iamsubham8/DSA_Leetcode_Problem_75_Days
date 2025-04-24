@@ -37,3 +37,6 @@ Ques - 11 https://leetcode.com/problems/is-subsequence/
 
 Ques - 12 https://leetcode.com/problems/container-with-most-water/
 
+
+Ques - 13 https://leetcode.com/problems/max-number-of-k-sum-pairs/
+
