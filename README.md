@@ -48,3 +48,6 @@ Ques - 15 https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-
 
 
 Ques - 16 https://leetcode.com/problems/max-consecutive-ones-iii/
+
+
+Ques - 17 https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
