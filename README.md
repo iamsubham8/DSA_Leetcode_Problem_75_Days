@@ -51,3 +51,6 @@ Ques - 16 https://leetcode.com/problems/max-consecutive-ones-iii/
 
 
 Ques - 17 https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
+
+
+Ques - 18 https://leetcode.com/problems/find-the-highest-altitude/
