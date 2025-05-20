@@ -54,3 +54,6 @@ Ques - 17 https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-on
 
 
 Ques - 18 https://leetcode.com/problems/find-the-highest-altitude/
+
+
+Ques - 19 https://leetcode.com/problems/find-pivot-index/
