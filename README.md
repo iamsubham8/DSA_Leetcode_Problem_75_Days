@@ -57,3 +57,6 @@ Ques - 18 https://leetcode.com/problems/find-the-highest-altitude/
 
 
 Ques - 19 https://leetcode.com/problems/find-pivot-index/
+
+
+Ques - 20 https://leetcode.com/problems/find-the-difference-of-two-arrays/
